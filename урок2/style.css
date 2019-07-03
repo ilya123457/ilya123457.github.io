@@ -1,0 +1,34 @@
+
+		body{
+			font-size:25px;
+		    font-family: 'Roboto', sans-serif;
+		}
+		h1{
+         	color:blue;
+		 	font-size:40px;   
+            font-family: 'Roboto', sans-serif;
+		  }	
+	
+	  div {
+	      	width: 60%;
+	        margin:auto;
+	        padding:10px;
+	      }
+
+      p {
+        color:#999999;
+        font-style:italic;
+        margin:20px 0;
+      
+      }
+      a{
+      	text-decoration:none;
+        color:blue;
+        display:block;
+        margin:5px 0;
+      }
+      img{
+      	max-width:100%;
+        height:auto;
+        display:block;
+      }
